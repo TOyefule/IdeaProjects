@@ -1,0 +1,8 @@
+1. Create a basic application
+Your 6 year old client needs an application that will receive an integer from the user banging on the keyboard, add 5 to it, double it, subtract 7 from it, and display the result to the screen.
+
+set int userInput = user input
+userInput += 5
+userInput *=2
+userInput -=7
+Print(userInput)
