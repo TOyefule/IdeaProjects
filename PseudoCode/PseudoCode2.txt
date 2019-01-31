@@ -1,11 +1,11 @@
 2. Add three numbers and print the total
 His little sister now wants a program to read three numbers, add them together and print their total.
 
-Print(“what is your first number?”)
+Print(â€œwhat is your first number?â€)
 Num1 = User_input ;
-Print(“what is your second number?”)
+Print(â€œwhat is your second number?â€)
 Num2 = User_input ;
-Print(“what is your third number?”)
+Print(â€œwhat is your third number?â€)
 Num3 = User_input;
 Total_sum =  Num1 +Num2 + Num3
 Print(Total_sum)
