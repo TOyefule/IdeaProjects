@@ -1,27 +1,27 @@
 3. Find the average score
 A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
-Print(“How many scores would you like to enter?”)
+Print(â€œHow many scores would you like to enter?â€)
 numScores = User_input ;
 initialize var counter = 1
-Print(“what is your first number?”)
+Print(â€œwhat is your first number?â€)
 Num1 = User_input;
-Print(“what is your second number?”)
+Print(â€œwhat is your second number?â€)
 Num2 = User_input;
-Print(“what is your third number?”)
+Print(â€œwhat is your third number?â€)
 Num3 = User_input;
-Print(“what is your fourth number?”)
+Print(â€œwhat is your fourth number?â€)
 Num4 = User_input;
-Print(“what is your fifth number?”)
+Print(â€œwhat is your fifth number?â€)
 Num5 = User_input;
-Print(“what is your sixth number?”)
+Print(â€œwhat is your sixth number?â€)
 Num6 = User_input;
-Print(“what is your seventh number?”)
+Print(â€œwhat is your seventh number?â€)
 Num7 = User_input;
-Print(“what is your eighth number?”)
+Print(â€œwhat is your eighth number?â€)
 Num8 = User_input;
-Print(“what is your Ninth number?”)
+Print(â€œwhat is your Ninth number?â€)
 Num9 = User_input;
-Print(“what is your Tenth number?”)
+Print(â€œwhat is your Tenth number?â€)
 Num10 = User_input;
 Total_sum =  Num1 +Num2 + Num3 = Num4 +Num5 + Num6 + Num7 +Num8 + Num9 + Num10
 Total_sum/numScores = numAvg
