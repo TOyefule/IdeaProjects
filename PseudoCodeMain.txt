@@ -1,0 +1,74 @@
+1. Create a basic application
+Your 6 year old client needs an application that will receive an integer from the user banging on the keyboard, add 5 to it, double it, subtract 7 from it, and display the result to the screen.
+
+set int userInput = user input
+userInput += 5
+userInput *=2
+userInput -=7
+Print(userInput)
+
+
+2. Add three numbers and print the total
+His little sister now wants a program to read three numbers, add them together and print their total.
+
+Print(“what is your first number?”)
+Num1 = User_input ;
+Print(“what is your second number?”)
+Num2 = User_input ;
+Print(“what is your third number?”)
+Num3 = User_input;
+Total_sum =  Num1 +Num2 + Num3
+Print(Total_sum)
+
+
+
+
+
+3. Find the average score
+A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
+Print(“How many scores would you like to enter?”)
+numScores = User_input ;
+initialize var counter = 1
+Print(“what is your first number?”)
+Num1 = User_input;
+Print(“what is your second number?”)
+Num2 = User_input;
+Print(“what is your third number?”)
+Num3 = User_input;
+Print(“what is your fourth number?”)
+Num4 = User_input;
+Print(“what is your fifth number?”)
+Num5 = User_input;
+Print(“what is your sixth number?”)
+Num6 = User_input;
+Print(“what is your seventh number?”)
+Num7 = User_input;
+Print(“what is your eighth number?”)
+Num8 = User_input;
+Print(“what is your Ninth number?”)
+Num9 = User_input;
+Print(“what is your Tenth number?”)
+Num10 = User_input;
+Total_sum =  Num1 +Num2 + Num3 = Num4 +Num5 + Num6 + Num7 +Num8 + Num9 + Num10
+Total_sum/numScores = numAvg
+
+Print(numAvg)
+
+4. How much water runs off the roof
+How much water runs off a roof in a rain storm?
+To calculate the runoff from any given rainfall: Take the dimensions of the footprint of the roof and convert them to inches. (So, a 50' x 20' roof is 600" x 240"). Multiply the roof dimensions by the number of inches of rainfall. In this example, 600" x 240" x 1" = 144,000 cubic inches of water. Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+Write the pseudocode for the above problem. If you use the numbers provided in the example then the correct pseudocode will calculate the same result.
+
+
+Print(“How wide is the roof?”)
+roofWidth = User_input ;
+roofWidthInches = roofWidth *12
+Print(“how long is the roof?”)
+roofLength = User_input ;
+roofLengthInches = roofLength *12
+Print(“How much rainfall occurred in Inches?”)
+rainFall = user_input;
+Total_sum_inches =  roofWidthInches * roofLengthInches * rainfall
+numGallons = Total_sum_inches / 231 
+Print(numGallons)
+
